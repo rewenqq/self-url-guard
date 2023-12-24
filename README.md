@@ -6,7 +6,7 @@ Bu Discord sunucusunda veya projede selfbot kullanımı yasaktır. Selfbotlar, D
 
 Lütfen projemizi kullanırken Discord'un kullanım şartlarına uyun ve yasak olan herhangi bir aktiviteden kaçının. Daha fazla bilgi için [Discord Kullanım Şartları](https://discord.com/terms) sayfasını ziyaret edebilirsiniz.
 
-Bot çevrimdışıda gözükecektir ama Main botun açık olduğu sürece botta görünmezde açık kalacaktır
+Bot çevrimdışıda gözükecektir ama Main botun açık olduğu sürece botta görünmezde açık kalacaktır.
 
 ## KURMA
 ilk öncelikle terminale 
