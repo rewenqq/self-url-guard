@@ -10,11 +10,11 @@ Bot çevrimdışıda gözükecektir ama Main botun açık olduğu sürece botta 
 
 ## KURMA
 ilk öncelikle terminale 
-```bas
+```bash
 npm install veya yarn
-``` yazıp modülleri yükleyin
+``` 
+yazıp modülleri yükleyin
 Sonraki adım config.json dosyasını doldurmak,
-
 ```json
 {
     "BOT_TOKEN": "", // Normal bir bot tokeni.
