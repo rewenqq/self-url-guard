@@ -5,6 +5,5 @@
     "VANITY_URL": "",
     "STATUS": "",
     "LOGCHANNEL_ID": "",
-    "WHITELIST": [""],
-    "WHITELIST_ROLE": [""]
+    "WHITELIST": [""]
 }
