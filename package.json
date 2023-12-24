@@ -13,7 +13,7 @@
     "repository": {
         "url": "https://github.com/rewenqq/self-url-guard"
     },
-    "license": "MIT",
+    "license": "Apache-2.0 license",
     "private": true,
     "devDependencies": {
         "@types/node": "^20.4.2",
