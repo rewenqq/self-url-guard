@@ -1,0 +1,31 @@
+{
+    "name": "url-guard",
+    "version": "1.0.0",
+    "description": "Discord url-guard bot for Discord Server.",
+    "main": "src/index.ts",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "dev": "nodemon src/index.ts",
+        "format": "prettier --write .",
+        "lint": "tslint -p tsconfig.json"
+    },
+    "author": "Takachi",
+    "repository": {
+        "url": "https://github.com/rewenqq/self-url-guard"
+    },
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "@types/node": "^20.4.2",
+        "@types/node-cron": "^3.0.8",
+        "nodemon": "^3.0.1",
+        "prettier": "^3.0.0",
+        "ts-node": "^10.9.1",
+        "tsconfig-paths": "^4.2.0",
+        "typescript": "^5.1.6"
+    },
+    "dependencies": {
+        "discord.js": "^14.12.1",
+        "discord.js-selfbot-v13": "^2.15.0"
+    }
+}

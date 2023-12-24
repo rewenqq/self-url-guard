@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "",
+    "SELF_TOKEN": "",
+    "GUILD_ID": "",
+    "VANITY_URL": "",
+    "STATUS": "",
+    "LOGCHANNEL_ID": "",
+    "WHITELIST": [""],
+    "WHITELIST_ROLE": [""]
+}
